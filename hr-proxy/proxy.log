@@ -1,0 +1,10 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "C:\Users\law\Downloads\hr-cline-proxies\hr-proxy\hr_openai_proxy.py", line 15, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "C:\Users\law\Downloads\hr-cline-proxies\hr-proxy\hr_openai_proxy.py", line 15, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
